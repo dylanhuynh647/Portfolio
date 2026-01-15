@@ -1,0 +1,15 @@
+[
+    {
+        "role": "IT Support Intern",
+        "organisation": "Lanworks",
+        "startDate": "June 2025",
+        "endDate": "August 2025",
+        "experiences": [
+            "Assisted in troubleshooting hardware and software issues for over 200 employees.",
+            "Maintained and updated the company's IT inventory system.",
+            "Provided technical support during company-wide software upgrades."
+        ],
+        "imageSrc": "history/lanworks.png"
+    }
+
+]
