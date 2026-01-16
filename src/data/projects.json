@@ -1,7 +1,7 @@
 [
   {
     "title": "Portfolio Website",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/PortfolioProject.png",
     "description": "This is a project to showcase my experience and projects using reactive front-end technologies.",
     "skills": ["React.js", "CSS Modules", "JavaScript"],
     "source": "https://github.com/dylanhuynh647/Portfolio"
