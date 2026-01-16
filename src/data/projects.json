@@ -4,6 +4,6 @@
     "imageSrc": "projects/project.png",
     "description": "This is a project to showcase my experience and projects using reactive front-end technologies.",
     "skills": ["React.js", "CSS Modules", "JavaScript"],
-    "source": "https://www.github.com"
+    "source": "https://github.com/dylanhuynh647/Portfolio"
   }
 ]
